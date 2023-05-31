@@ -6,3 +6,5 @@
 
 //validação 
 - npm i zod
+
+<img src="./temp/meme.jpeg" style="width:80%"/>
